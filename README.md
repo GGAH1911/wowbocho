@@ -1,6 +1,6 @@
 # 와우보초 · WoWBocho
 
-**👉 사이트 바로가기: https://wowbocho.pages.dev/**
+**👉 사이트 바로가기: https://wowbocho.com/**
 
 월드 오브 워크래프트 초보와 복귀 유저를 위한 한국어 공략 사이트입니다. 리테일 한밤(Midnight) 2시즌의 쐐기·레이드·PvP와, WoW 포에버의 던전·퀘스트·특성을 내 직업과 전문화에 맞춰 보여 줍니다. 무료이고 광고와 로그인이 없습니다.
 
@@ -37,4 +37,4 @@ NPC·장비·탈것을 한글이나 영문 이름으로 찾아 3D로 보고, 동
 
 ---
 
-**English:** WoWBocho is a free Korean/English guide site for World of Warcraft — Midnight Season 2 Mythic+ routes per spec (pull-by-pull maps, MDT-style forces %, run-video timestamps), raid and PvP, plus WoW Forever dungeons, quests and talent calculators, and a 3D model viewer. Visit **https://wowbocho.pages.dev/?ui=en**. This repository only holds this introduction; the site source is private. Fan site, not affiliated with Blizzard Entertainment.
+**English:** WoWBocho is a free Korean/English guide site for World of Warcraft — Midnight Season 2 Mythic+ routes per spec (pull-by-pull maps, MDT-style forces %, run-video timestamps), raid and PvP, plus WoW Forever dungeons, quests and talent calculators, and a 3D model viewer. Visit **https://wowbocho.com/?ui=en**. This repository only holds this introduction; the site source is private. Fan site, not affiliated with Blizzard Entertainment.
